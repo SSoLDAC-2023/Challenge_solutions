@@ -29,8 +29,8 @@ This repository contains all the solutions created by the SSoLDAC 2023 teams dur
 
 
 **Be sure to remove any content that you do not want to share**
-**Remember to set your own license or citation for your project**
-If you do not have access, let me or the team know.
+**Remember to set your own license or citation for your project****
+**If you do not have access, let me or the team know.**
 
 # Usage of data from this repo
 All of the data supplied here are subject to individual contributor's license specified.
