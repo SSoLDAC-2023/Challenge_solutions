@@ -1,5 +1,5 @@
 # Description
-This repository contains all the solutions created by the SSoLDAC 2023 teams during the Summer School hackathon. Our intention behind collecting and storing such solutions is to enable all participants and the wider coommunity open access to the codes, in hopes that it would be useful for someone.
+This repository contains all the solutions created by the SSoLDAC 2023 teams during the Summer School hackathon. Our intention behind collecting and storing such solutions is to give all participants and the wider community, open access to the codes and, hopefully it would be useful for someone.
 
 # Instructions for using this repo
 1. Do you remember which group you worked in? If not, check out here: https://docs.google.com/spreadsheets/d/1S5PzN90xsNADf5KJwmmXK4HLB6qEpjuJyQdEOPf-hk8/edit#gid=0
